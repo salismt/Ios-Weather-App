@@ -16,6 +16,7 @@
 		1B318D741E09649A0006861F /* rainyshinycloudyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B318D731E09649A0006861F /* rainyshinycloudyUITests.swift */; };
 		1BD300D61E0A1D88007CDF3C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD300D51E0A1D88007CDF3C /* Constants.swift */; };
 		1BD300D81E0A1EF0007CDF3C /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD300D71E0A1EF0007CDF3C /* CurrentWeather.swift */; };
+		1BD7902C1E0ADBF500FECB78 /* Forecast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD7902B1E0ADBF500FECB78 /* Forecast.swift */; };
 		FD3C2B515C1289514A59E239 /* Pods_rainyshinycloudy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E1E9AD733B58622639BEC0C /* Pods_rainyshinycloudy.framework */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		1B318D751E09649A0006861F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1BD300D51E0A1D88007CDF3C /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		1BD300D71E0A1EF0007CDF3C /* CurrentWeather.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
+		1BD7902B1E0ADBF500FECB78 /* Forecast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Forecast.swift; sourceTree = "<group>"; };
 		384C92C2B530A084D14D1566 /* Pods_rainyshinycloudyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_rainyshinycloudyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4827CDAC556DD126E2327F90 /* Pods-rainyshinycloudy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rainyshinycloudy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-rainyshinycloudy/Pods-rainyshinycloudy.debug.xcconfig"; sourceTree = "<group>"; };
 		9E035990CB1EE41EB478D7AA /* Pods_rainyshinycloudyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_rainyshinycloudyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,6 +120,7 @@
 				1B318D5C1E09649A0006861F /* LaunchScreen.storyboard */,
 				1B318D5F1E09649A0006861F /* Info.plist */,
 				1BD300D71E0A1EF0007CDF3C /* CurrentWeather.swift */,
+				1BD7902B1E0ADBF500FECB78 /* Forecast.swift */,
 			);
 			path = rainyshinycloudy;
 			sourceTree = "<group>";
@@ -351,6 +354,7 @@
 				1B318D541E09649A0006861F /* AppDelegate.swift in Sources */,
 				1BD300D81E0A1EF0007CDF3C /* CurrentWeather.swift in Sources */,
 				1BD300D61E0A1D88007CDF3C /* Constants.swift in Sources */,
+				1BD7902C1E0ADBF500FECB78 /* Forecast.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
