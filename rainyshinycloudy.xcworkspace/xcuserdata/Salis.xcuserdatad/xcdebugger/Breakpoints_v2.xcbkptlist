@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "rainyshinycloudy/CurrentWeather.swift"
-            timestampString = "504034516.055914"
+            timestampString = "504065096.776641"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "downloadWeatherDetails(completed:)"
             landmarkType = "7">
             <Locations>
